@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabriella Cerrato
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The purpose of this assignment is to help students practice basic AJAX, API, and JSON concepts through
+a movie database application. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gzc16.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Google Maps is an example of AJAX. 
+2. JSON stands for JavaScript Object Notation.
+3. Languages associated with JSON include Java and C/C++. 
